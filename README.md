@@ -1,1 +1,1 @@
-https://alexis-andriopoulos.github.io/Password-Generator/
+https://alexisandriopoulos.github.io/Password-Generator/
